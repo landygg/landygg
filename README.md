@@ -52,6 +52,10 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/landygg" width="1000" height="120"/>
+</a>
+
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left">
  <!--<a href="https://github.com/landygg" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> -->
