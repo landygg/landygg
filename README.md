@@ -42,6 +42,11 @@ Here are some ideas to get you started:
 
 ![Profile views](https://komarev.com/ghpvc/?username=landygg&label=Profile%20views&color=0e75b6&style=flat)
 
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/lines/landygg?pet-id=23" width="30%" height="100"/><img src="https://render.gitanimals.org/lines/landygg?pet-id=22" width="30%" height="100"/><img src="https://render.gitanimals.org/lines/landygg?pet-id=1" width="30%" height="100"/>
+</div>
+
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
@@ -51,10 +56,6 @@ Here are some ideas to get you started:
     </summary>
   </ul>
 </div>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/landygg" width="1000" height="120"/>
-</a>
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left">
