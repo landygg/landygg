@@ -1,7 +1,6 @@
 <!--
 **landygg/landygg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 ![GitHub Followers](https://img.shields.io/github/followers/landygg?style=social)
 
 Here are some ideas to get you started:
@@ -38,14 +37,15 @@ Here are some ideas to get you started:
 
 -->
 
-![👋 Hi, my name is LandyGG](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
-
 ![Profile views](https://komarev.com/ghpvc/?username=landygg&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/landygg?style=social)
 
+![](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+
 <div align="center">
-<a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/landygg?pet-id=23" width="30%" height="100"/><img src="https://render.gitanimals.org/lines/landygg?pet-id=22" width="30%" height="100"/><img src="https://render.gitanimals.org/lines/landygg?pet-id=1" width="30%" height="100"/>
+    <img src="https://render.gitanimals.org/lines/landygg?pet-id=23" width="30%" height="100"/>
+    <img src="https://render.gitanimals.org/lines/landygg?pet-id=22" width="30%" height="100"/>
+    <img src="https://render.gitanimals.org/lines/landygg?pet-id=1" width="30%" height="100"/>
 </div>
 
 <div id="toc">
@@ -73,8 +73,9 @@ Here are some ideas to get you started:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> GitHub Stats
 
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=landygg&theme=react&hide_border=false&include_all_commits=false&count_private=true" /><br/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=landygg&theme=react&hide_border=false&include_all_commits=false&count_private=true" /> </br>
 <img width="48%" src="https://streak-stats.demolab.com/?user=landygg&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" /><br/>
+
 
 <!--
 <p align="left">
@@ -83,17 +84,17 @@ Here are some ideas to get you started:
 </p>
 -->
 
-**<h3 align="left">Connect with me:</h3>** 
+**<h3 align="left">Connect with me:</h3>**
 <p align="left">
  <!--<a href="https://github.com/landygg" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> -->
- <a href="https://www.linkedin.com/in/landygg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> 
- <a href="https://twitter.com/landygg" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> 
+ <a href="https://www.linkedin.com/in/landygg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>
+ <a href="https://twitter.com/landygg" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a>
  <a href="https://www.reddit.com/user/landygg" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">Support Me</h3>**
 
 <p align="left">
- <a href="https://paypal.me/LandyGG300212" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a> 
+ <a href="https://paypal.me/LandyGG300212" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a>
  <!--<a href="https://ko-fi.com/landygg" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=for-the-badge&logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a> 
  <a href="https://buymeacoffee.com/landygg" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 4px"></a> 
  <a href="https://www.patreon.com/landygg" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="36" style="margin-right: 4px"></a>-->
