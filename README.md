@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ![👋 Hi, my name is LandyGG](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=landygg&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/landygg?style=social)
 
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
@@ -57,13 +58,6 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left">
- <!--<a href="https://github.com/landygg" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> -->
- <a href="https://www.linkedin.com/in/landygg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> 
- <a href="https://twitter.com/landygg" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> 
- <a href="https://www.reddit.com/user/landygg" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-
  **<h3 align="left">🚀 Passionate Backend developer and DevOps engineer, focused on building robust, scalable web applications. Experienced in backend technologies, CI/CD, and AWS, with a strong focus on user experience and performance optimization.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
@@ -79,10 +73,8 @@ Here are some ideas to get you started:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> GitHub Stats
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=landygg&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=landygg&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=landygg&theme=react&hide_border=false&include_all_commits=false&count_private=true" /><br/>
+<img width="48%" src="https://streak-stats.demolab.com/?user=landygg&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" /><br/>
 
 <!--
 <p align="left">
@@ -90,6 +82,13 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=landygg&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&hide_border=false" alt="GitHub repo-card Card" />
 </p>
 -->
+
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left">
+ <!--<a href="https://github.com/landygg" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> -->
+ <a href="https://www.linkedin.com/in/landygg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> 
+ <a href="https://twitter.com/landygg" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> 
+ <a href="https://www.reddit.com/user/landygg" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">Support Me</h3>**
 
